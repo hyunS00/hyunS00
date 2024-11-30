@@ -8,4 +8,4 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyunS00)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimhs1470)](https://solved.ac/kimhs1470/)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=kimhs1470&theme=warm)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=kimhs1470&theme=cold)
