@@ -3,17 +3,10 @@
 ### 김현수 | Backend Developer
 
 안녕하세요. 복잡한 문제를 추상화하고 구조적으로 해결하는 백엔드 개발자 김현수입니다.  
-- 단순한 기능 구현을 넘어, 핵심 문제를 분석하고 최적의 해결책을 찾는 과정을 중요하게 생각합니다.  
-- NestJS와 TypeScript를 활용한 웹 백엔드 개발에 집중하고 있으며,  
-- AI API 및 실시간 데이터 처리에 관심이 많습니다.  
+단순한 기능 구현이 아니라, 핵심 문제를 분석하고 최적의 해결책을 찾는 과정을 중요하게 생각합니다.  
+NestJS와 TypeScript를 활용한 확장 가능한 웹 백엔드 개발을 주로 하며,  
+AI API, 실시간 데이터 처리, 보안 및 인증 시스템([관련 블로그 글](https://bearn-soo.tistory.com/entry/%EB%B2%A0%EC%96%B4%EB%9E%9C%EB%93%9C-Auth-%EC%8B%9C%EC%8A%A4%ED%85%9C-1-%EC%BF%A0%ED%82%A4%EC%99%80-%EC%84%B8%EC%85%98-%EA%B7%B8%EB%A6%AC%EA%B3%A0-JWT))  에 관심이 많습니다. 
 
----
-
-### 👩‍💻 관심 있는 것  
-- **확장 가능하고 효율적인 백엔드 아키텍처 설계**  
-- **AI API 및 Agent 기술 활용**  
-- **실시간 데이터 처리 및 네트워크 최적화**  
-- **보안 및 인증 시스템 설계** [링크](https://bearn-soo.tistory.com/entry/%EB%B2%A0%EC%96%B4%EB%9E%9C%EB%93%9C-Auth-%EC%8B%9C%EC%8A%A4%ED%85%9C-1-%EC%BF%A0%ED%82%A4%EC%99%80-%EC%84%B8%EC%85%98-%EA%B7%B8%EB%A6%AC%EA%B3%A0-JWT)
 
 ---
 
